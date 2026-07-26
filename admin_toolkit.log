@@ -1,0 +1,78 @@
+[Sat Jul 25 08:19:13 PM EDT 2026] SCRIPT STARTED
+[Sat Jul 25 08:19:13 PM EDT 2026] Hostname: linuxforitec
+[Sat Jul 25 08:19:13 PM EDT 2026] Current Date/Time: Sat Jul 25 08:19:13 PM EDT 2026
+[Sat Jul 25 08:19:13 PM EDT 2026] Current User: vboxuser
+[Sat Jul 25 08:19:13 PM EDT 2026] Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           197M  1.8M  195M   1% /run
+/dev/sda2        25G  9.2G   14G  40% /
+tmpfs           982M     0  982M   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           197M  132K  197M   1% /run/user/1000
+/dev/sr0        6.2G  6.2G     0 100% /media/vboxuser/Ubuntu 24.04.4 LTS amd64
+VM_Shared       455G   88G  367G  20% /home/vboxuser/Share
+[Sat Jul 25 08:19:13 PM EDT 2026] Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           1.9Gi       1.2Gi       237Mi        36Mi       654Mi       698Mi
+Swap:             0B          0B          0B
+[Sat Jul 25 08:19:13 PM EDT 2026] /etc directory exists.
+[Sat Jul 25 08:19:13 PM EDT 2026] Directory OK: /home
+[Sat Jul 25 08:19:13 PM EDT 2026] Directory OK: /tmp
+[Sat Jul 25 08:19:13 PM EDT 2026] Directory OK: /var
+tar: Removing leading `/' from member names
+tar: /home/vboxuser/.cache/ibus/dbus-WrXV6ens: socket ignored
+tar: /home/vboxuser/.cache/ibus/dbus-wxjVUX5A: socket ignored
+tar: /home/vboxuser/.cache/ibus/dbus-odNXCF7R: socket ignored
+tar: /home/vboxuser/.cache/ibus/dbus-jxrK3yBU: socket ignored
+tar: /home/vboxuser/.cache/ibus/dbus-MO9et2TA: socket ignored
+tar: /home/vboxuser/.cache/ibus/dbus-YlOCIa8l: socket ignored
+tar: /home/vboxuser/.cache/ibus/dbus-u3NMABuX: socket ignored
+tar: /home/vboxuser/.cache/ibus/dbus-DhaT7mvs: socket ignored
+tar: /home/vboxuser/.cache/ibus/dbus-IAwLvDVl: socket ignored
+tar: /home/vboxuser/.cache/ibus/dbus-EoLyVtLG: socket ignored
+tar: /home/vboxuser/.cache/ibus/dbus-lVklCfjh: socket ignored
+tar: /home/vboxuser/.cache/ibus/dbus-SFr8agw3: socket ignored
+tar: /home/vboxuser/.cache/ibus/dbus-32jGAmPQ: socket ignored
+tar: /home/vboxuser/.cache/ibus/dbus-3XwQeOL8: socket ignored
+tar: /home/vboxuser/backup_20260725.tar.gz: file changed as we read it
+[Sat Jul 25 08:19:30 PM EDT 2026] ERROR: Backup failed.
+[Sat Jul 25 08:19:30 PM EDT 2026] SCRIPT COMPLETED
+[Sat Jul 25 08:32:09 PM EDT 2026] SCRIPT STARTED
+[Sat Jul 25 08:32:09 PM EDT 2026] Hostname: linuxforitec
+[Sat Jul 25 08:32:09 PM EDT 2026] Current Date/Time: Sat Jul 25 08:32:09 PM EDT 2026
+[Sat Jul 25 08:32:09 PM EDT 2026] Current User: vboxuser
+[Sat Jul 25 08:32:09 PM EDT 2026] Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           197M  1.8M  195M   1% /run
+/dev/sda2        25G  9.4G   14G  41% /
+tmpfs           982M     0  982M   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           197M  136K  197M   1% /run/user/1000
+/dev/sr0        6.2G  6.2G     0 100% /media/vboxuser/Ubuntu 24.04.4 LTS amd64
+VM_Shared       455G   88G  367G  20% /home/vboxuser/Share
+[Sat Jul 25 08:32:09 PM EDT 2026] Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           1.9Gi       1.2Gi       232Mi        36Mi       690Mi       734Mi
+Swap:             0B          0B          0B
+[Sat Jul 25 08:32:09 PM EDT 2026] /etc directory exists.
+[Sat Jul 25 08:32:09 PM EDT 2026] Directory OK: /home
+[Sat Jul 25 08:32:09 PM EDT 2026] Directory OK: /tmp
+[Sat Jul 25 08:32:09 PM EDT 2026] Directory OK: /var
+tar: Removing leading `/' from member names
+tar: /home/vboxuser/.cache/ibus/dbus-WrXV6ens: socket ignored
+tar: /home/vboxuser/.cache/ibus/dbus-wxjVUX5A: socket ignored
+tar: /home/vboxuser/.cache/ibus/dbus-odNXCF7R: socket ignored
+tar: /home/vboxuser/.cache/ibus/dbus-jxrK3yBU: socket ignored
+tar: /home/vboxuser/.cache/ibus/dbus-MO9et2TA: socket ignored
+tar: /home/vboxuser/.cache/ibus/dbus-YlOCIa8l: socket ignored
+tar: /home/vboxuser/.cache/ibus/dbus-u3NMABuX: socket ignored
+tar: /home/vboxuser/.cache/ibus/dbus-DhaT7mvs: socket ignored
+tar: /home/vboxuser/.cache/ibus/dbus-IAwLvDVl: socket ignored
+tar: /home/vboxuser/.cache/ibus/dbus-EoLyVtLG: socket ignored
+tar: /home/vboxuser/.cache/ibus/dbus-lVklCfjh: socket ignored
+tar: /home/vboxuser/.cache/ibus/dbus-SFr8agw3: socket ignored
+tar: /home/vboxuser/.cache/ibus/dbus-32jGAmPQ: socket ignored
+tar: /home/vboxuser/.cache/ibus/dbus-3XwQeOL8: socket ignored
+tar: /home/vboxuser/backup_20260725.tar.gz: file changed as we read it
+[Sat Jul 25 08:32:25 PM EDT 2026] ERROR: Backup failed.
+[Sat Jul 25 08:32:25 PM EDT 2026] SCRIPT COMPLETED
